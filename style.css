@@ -1,0 +1,89 @@
+body{
+    border: 10px solid black;
+    padding: 20px;
+    margin:0;
+   background: url(https://luckylab.com/wp-content/uploads/2014/02/woodgrain.jpg);
+
+    background-repeat: no-repeat;
+    background-size:1550px 1400px ;
+}
+img{
+    margin: 0 auto;
+}
+h1{
+    color: #2c3e50;
+    font-size: 2rem;
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.quote{
+    border-left: 5px solid #bdc3c7;
+    padding: 5px;
+}
+.date{
+    color: #3498db;
+    text-transform: bubble;
+    letter-spacing: 0.3rem;
+
+}
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(179, 174, 174, 0.1);
+    border-bottom: 1px solid rgba(48, 46, 46, 0.3);
+    }
+    .post{
+        margin-top: 20px;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      
+li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+    padding-bottom: 16px;
+    padding-top: 16px;
+  }
+
+  .footer {
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+ }
+
+ .post{
+     background-color: white;
+     opacity: .7;
+     border-radius: 30px;
+     padding-left: 20px;
+     padding-top: 20px;
+     padding-bottom: 20px;
+
+     margin: 30px 0px 30px 0px;
+ }
